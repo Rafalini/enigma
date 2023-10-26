@@ -1,6 +1,6 @@
 # Recrutation task
 
-There is merge request to main branch, to make it easier to comment and contend changes.
+There is pull request to main branch, to make it easier to comment and contend changes.
 
 ## Assumptions for task 1:
 * only symbolic functionalities implemented (like formula for photosynthesis)
